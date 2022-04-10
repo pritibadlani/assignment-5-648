@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jainamshethhere/assignment5.git"
+    "url": "git+https://github.com/pritibadlani/assignment5-648.git"
   },
-  "author": "Jainam Sheth",
+  "author": "Priti Badlani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jainamshethhere/assignment5/issues"
+    "url": "https://github.com/pritibadlani/assignment5/issues"
   },
-  "homepage": "https://github.com/jainamshethhere/assignment5#readme",
+  "homepage": "https://github.com/pritibadlani/assignment5-648#readme",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "dotenv": "^8.2.0",
